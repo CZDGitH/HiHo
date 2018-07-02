@@ -15,15 +15,19 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            <state relative-caret-position="225">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TrieCheck.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TrieCheck.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -64,24 +68,24 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TrieTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrieTest" type="462c0819:PsiDirectoryNode" />
+              <item name="TrieTest_1014" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrieTest_1014" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="TrieTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrieTest" type="462c0819:PsiDirectoryNode" />
+              <item name="TrieTest_1014" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrieTest_1014" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,11 +147,12 @@
       <workItem from="1530288193518" duration="5222000" />
       <workItem from="1530340766218" duration="18655000" />
       <workItem from="1530475709251" duration="2000" />
+      <workItem from="1530528114224" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24720000" />
+    <option name="totallyTimeSpent" value="24762000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -160,10 +165,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1171" y="23" width="1386" height="1333" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928804" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32928804" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -175,7 +180,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928804" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2611607" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26488096" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -189,7 +194,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32928804" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +208,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -241,25 +252,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputWord.java" />
+    <entry file="file://$PROJECT_DIR$/src/SeachWord.java" />
+    <entry file="file://$PROJECT_DIR$/src/InWord.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TrieCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InputWord.java" />
-    <entry file="file://$PROJECT_DIR$/src/SeachWord.java" />
-    <entry file="file://$PROJECT_DIR$/src/InWord.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrieCheck.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
